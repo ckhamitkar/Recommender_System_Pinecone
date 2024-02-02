@@ -1,0 +1,1 @@
+Created a recommender system using Pinecone and OpenAI (for embeddings). Rather straightforward 
